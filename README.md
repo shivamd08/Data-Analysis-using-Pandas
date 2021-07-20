@@ -1,4 +1,4 @@
-## Data-Analysis-using-Pandas 
+## Data-Analysis-using-pandas 
 ### StackOverflow Survey Download Page - http://bit.ly/SO-Survey-Download
 pandas blends the high-performance, array-computing ideas of NumPy with
 the flexible data manipulation capabilities of spreadsheets and relational
